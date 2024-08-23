@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "DM Serif Text", serif;
+}
+/* first */
+.pic1{
+    background-image: url(./images/trees.avif);
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    
+}
+.para1 p{
+    height: 200px;
+    background-image: linear-gradient(rgba(39, 37, 37, 0.834) , rgb(15, 15, 57));
+    
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+.pic1 h1{
+    filter: drop-shadow(3px 3px 3px lightblue);
+    
+}
+.title:hover{
+    scale: 1.05;
+}
+/* second */
+ .pic2{
+    background-image: url(./images/secondd.avif);
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.para2{
+    height: 200px;
+    background-image: linear-gradient(rgb(37, 37, 86) 50%, white);
+    
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+/* third */
+.pic3{
+    background-image: url(./images/3rd.avif);
+    height: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.para3{
+    height: 200px;
+    background-image: linear-gradient(rgba(17, 141, 17, 0.93) 50%, rgb(208, 208, 231));
+    
+    color: white;
+    text-align: center;
+    padding: 50px;
+} 
+
+/* fourth */
+.pic4{
+    background-image: url(./images/replace.avif);
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.para4{
+    height: 200px;
+    background-image: linear-gradient(grey 30%, pink);
+    
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+/* fifth */
+.pic5{
+    background-image: url(./images/space1.avif);
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
